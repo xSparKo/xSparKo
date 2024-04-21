@@ -2,6 +2,7 @@
 - I’m interested in open source projects and Linux
 - I’m currently learning HTML, CSS, JavaScript. Working through The Odin Project.
 
+https://www.smarten.sk/external/torreol/pages/view_prehlad.php
 
 
 <!---
